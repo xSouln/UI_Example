@@ -2,7 +2,8 @@
 1. [Repository structure](#repository-structure)
 1. [CP210x USB to UART Bridge VCP Drivers](#cp210x-usb-to-uart-bridge-vcp-drivers)
 2. [Installation application](#installation-application)
-3. [Application description](#application-description)
+3. [Device connection](#device-connection)
+4. [Application description](#application-description)
 
 ## Repository structure
 - folder [Desktop](/Desktop) - contains custom application files.
@@ -18,6 +19,10 @@
 - download the [application](/Desktop) from the [link](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Desktop).
 - unzip the archive. If necessary, install the [archiver](https://www.7-zip.org/).
 - to run the application use the file ["name of the unpacked archive"/Examples_CSharpFramework.exe]().
+
+## Device connection
+- connecting the [USB to UART Bridge] device to the USB connector of the computer - [Figure 6](#figure-6).
+- turn on the device, pinch the contact [TP53](#figure-7) with your finger - [Figure 8](#figure-8).
 
 ## Application description
 - connect device via usb
@@ -43,3 +48,12 @@
 
 ## Figure 5
 ![establish connection](/Images/Screenshot_5.png)
+
+## Figure 6
+![establish connection](/Images/Photo_1.jpeg)
+
+## Figure 7
+![establish connection](/Images/Photo_2.jpeg)
+
+## Figure 8
+![establish connection](/Images/Screenshot_6.jpeg)

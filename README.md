@@ -22,7 +22,7 @@
 
 ## Device connection
 - connecting the [USB to UART Bridge] device to the USB connector of the computer - [Figure 6](#figure-6).
-- turn on the device, pinch the contact [TP53](#figure-7) with your finger - [Figure 8](#figure-8).
+- turn on the device, pinch the contact [TP53](#figure-8) with your finger - [Figure 8](#figure-7).
 
 ## Application description
 - connect device via usb
@@ -35,25 +35,33 @@
     - to clear the charts, right-click on the chart area and click "Clear" in the context menu that opens - [Figure 5](#figure-5). 
 
 ## Figure 1
+### select the [serial port]() connection interface
 ![establish connection](/Images/Screenshot_1.png)
 
 ## Figure 2
+### serial port window
 ![establish connection](/Images/Screenshot_2.png)
 
 ## Figure 3
+### display [Silicon Labs CP210x USB to UART Bridge]() device in Windows Device Manager
 ![establish connection](/Images/Screenshot_3.png)
 
 ## Figure 4
+### successful connection status
 ![establish connection](/Images/Screenshot_4.png)
 
 ## Figure 5
+### clearing graph data
 ![establish connection](/Images/Screenshot_5.png)
 
 ## Figure 6
-![establish connection](/Images/Photo_1.jpeg)
+### connecting the [Silicon Labs CP210x USB to UART Bridge]() device to the USB connector
+![establish connection](/Images/photo_1.jpeg)
 
 ## Figure 7
-![establish connection](/Images/Photo_2.jpeg)
+### turn on the device with a touch of a finger
+![establish connection](/Images/photo_2.jpeg)
 
 ## Figure 8
-![establish connection](/Images/Screenshot_6.jpeg)
+### contact [TP53]() - circled in red
+![establish connection](/Images/Screenshot_6.png)

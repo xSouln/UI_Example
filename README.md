@@ -14,6 +14,7 @@
 - download the driver from this [link](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Drivers/CP210x_Windows_Drivers.zip) or from the official [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
 
 ## Installation application
+- install [CP210x USB to UART Bridge VCP Drivers](#cp210x-usb-to-uart-bridge-vcp-drivers)
 - download the [application](/Desktop) from the [link](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Desktop).
 - unzip the archive. If necessary, install the [archiver](https://www.7-zip.org/).
 - to run the application use the file ["name of the unpacked archive"/Examples_CSharpFramework.exe]().

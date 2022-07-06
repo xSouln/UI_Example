@@ -1,18 +1,20 @@
 # Сontent
 1. [Repository structure](#repository-structure)
-1. [CP210x USB to UART Bridge VCP Drivers](#cp2110x-usb-to-uart-bridge-vcp-drivers)
+1. [CP210x USB to UART Bridge VCP Drivers](#cp210x-usb-to-uart-bridge-vcp-drivers)
 2. [Installation application](#installation-application)
 3. [Application description](#application-description)
 
 ## Repository structure
 - folder [Desktop](/Desktop) - contains custom application files.
-- folder [Drivers](/Drivers) - contains [CP210x USB to UART Bridge VCP Drivers](#cp2110x-usb-to-uart-bridge-vcp-drivers) and archiver [7-Zip](https://downgit.github.io/#/home?url=https://github.com/xSouln/SortModels/tree/release_1/SortModels/bin/Debug).
+- folder [Drivers](/Drivers) contains:
+    - driver [CP210x USB to UART Bridge VCP Drivers](#cp210x-usb-to-uart-bridge-vcp-drivers).
+    - archiver [7-Zip](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Drivers/7z2200-x64.exe) or [link](https://www.7-zip.org/) from the official site.
 
 ## CP210x USB to UART Bridge VCP Drivers
-- download the driver from this [link]() or from the official [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
+- download the driver from this [link](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Drivers/CP210x_Windows_Drivers.zip) or from the official [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
 
 ## Installation application
-- download the [application](/Desktop) from the [link]().
+- download the [application](/Desktop) from the [link](https://downgit.github.io/#/home?url=https://github.com/xSouln/UI_Example/tree/main/Desktop).
 - unzip the archive. If necessary, install the [archiver](https://www.7-zip.org/).
 - to run the application use the file ["name of the unpacked archive"/Examples_CSharpFramework.exe]().
 

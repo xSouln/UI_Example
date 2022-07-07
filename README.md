@@ -64,7 +64,7 @@
 ![establish connection](/Images/photo_2.jpeg)
 
 ## Figure 8
-### contact [TP53]() - circled in red
+### contact [TP53]() - circled in red, view from the side of the ECG sensor
 ![establish connection](/Images/Screenshot_6.png)
 
 ## Figure 9

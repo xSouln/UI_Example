@@ -21,8 +21,9 @@
 - to run the application use the file ["name of the unpacked archive"/Examples_CSharpFramework.exe]().
 
 ## Device connection
+- connect the battery with a red lead to the red arrow as shown in the [Figure 9](#figure-9).
 - connecting the [USB to UART Bridge] device to the USB connector of the computer - [Figure 6](#figure-6).
-- turn on the device, pinch the contact [TP53](#figure-8) with your finger - [Figure 8](#figure-7).
+- turn on the device, pinch the contact [TP53](#figure-8) with your finger - [Figure 7](#figure-7).
 
 ## Application description
 - connect device via usb
@@ -65,3 +66,7 @@
 ## Figure 8
 ### contact [TP53]() - circled in red
 ![establish connection](/Images/Screenshot_6.png)
+
+## Figure 9
+### battery connector, the red arrow indicates the connection point of the contact with the red wire
+![establish connection](/Images/photo_3.jpeg)

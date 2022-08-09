@@ -73,8 +73,18 @@
 ![establish connection](/Images/photo_3.jpeg)
 
 ## Saving data
-- to save to a shared file select "File" => "Save" - [Figure 10](#figure-10).
+- you can save/load data to a common file or to individual files of the selected chart. The generic file is saved by default with the "graphs_points_sample_x" prefix in ".json" and ".xlsx" (excel) formats. Prefixes for selected charts respectively "acceleration_points_sample_x"(Acceleration) and so on - [Figure 11](#figure-11).
+- to save/load to a shared file select "File" => "Save"/"Open" - [Figure 10](#figure-10).
+- to save/load the selected chart, right-click on the chart area and click "Save"/"Load" - [Figure 12](#figure-12).
 
 ## Figure 10
 ### File menu
 ![Images](/Images/Screenshot_8.png)
+
+## Figure 11
+### Example of saved files
+![Images](/Images/Screenshot_9.png)
+
+## Figure 12
+### Context menu of the selected chart
+![Images](/Images/Screenshot_7.png)

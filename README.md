@@ -4,6 +4,7 @@
 2. [Installation application](#installation-application)
 3. [Device connection](#device-connection)
 4. [Application description](#application-description)
+5. [Saving data](#saving-data)
 
 ## Repository structure
 - folder [Desktop](/Desktop) - contains custom application files.
@@ -70,3 +71,10 @@
 ## Figure 9
 ### battery connector, the red arrow indicates the connection point of the contact with the red wire
 ![establish connection](/Images/photo_3.jpeg)
+
+## Saving data
+- to save to a shared file select "File" => "Save" - [Figure 10](#figure-10).
+
+## Figure 10
+### File menu
+![Images](/Images/Screenshot_8.png)
